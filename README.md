@@ -28,6 +28,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Romyadhy&show_icons=true&theme=radical" alt="stats" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Romyadhy&theme=tokyonight" alt="streak" height="150" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romyadhy&theme=radical" alt="streak" height="150" /> -->
 </p>
 
