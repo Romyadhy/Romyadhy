@@ -20,7 +20,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,php,laravel,mysql,github,vscode,linux,arduino,cpp,kali,neovim,visualstudio," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,php,laravel,mysql,github,vscode,linux,arduino,cpp,kali,neovim,visualstudio" />
 </p>
 
 ---
@@ -32,10 +32,15 @@
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romyadhy&theme=radical" alt="streak" height="150" /> -->
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romyadhy&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
 ---
 
 ### ✨ Quote
 > “Let’s improve together — no enemies, just growth 💪”
+
 ---
 
 <p align="center">
