@@ -18,19 +18,19 @@
 
 ---
 
-### 🧰 Tech Stack
-<p align="center">
+<!-- ### 🧰 Tech Stack -->
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,php,laravel,mysql,github,vscode,linux,arduino,cpp,kali,neovim,visualstudio" />
-</p>
+</p> -->
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Romyadhy&show_icons=true&theme=radical" alt="stats" height="150" />
+<!-- ### 📊 GitHub Stats -->
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Romyadhy&show_icons=true&theme=radical" alt="stats" height="150" /> -->
   <!-- <img src="https://streak-stats.demolab.com?user=Romyadhy&theme=tokyonight" alt="streak" height="150" /> -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romyadhy&theme=radical" alt="streak" height="150" /> -->
-</p>
+<!-- </p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romyadhy&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
