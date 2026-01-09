@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I Putu Romyadhy Mahaputra</h1>
+<!-- <h1 align="center">Hi 👋, I'm I Putu Romyadhy Mahaputra</h1>
 <h3 align="center">💻 Computer Science Student | 🌐 Full-Stack & ML Enthusiast | 🛡️ Cybersecurity Learner | 🎮 Game Explorer</h3>
 
 <p align="center">
@@ -14,33 +14,14 @@
 - 🌱 I’m currently learning **Full-Stack Web Dev, GameDev, Machine Learning, and Cybersecurity**
 - 🎮 I love exploring **Web + IoT + Cyber + AI + Games**
 - 🚀 Passionate about creating useful & interesting things
-- 📫 Reach me at **romyady221@gmail.com**
+- 📫 Reach me at **romyady221@gmail.com** -->
 
----
+<h1 align="center">Hi 👋, I'm I Putu Romyadhy Mahaputra</h1>
+<h3 align="center">💻 Computer Science Student | 🌐 Full-Stack & ML Enthusiast | 🛡️ Cybersecurity Learner | 🎮 Game Explorer</h3>
 
-<!-- ### 🧰 Tech Stack -->
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,php,laravel,mysql,github,vscode,linux,arduino,cpp,kali,neovim,visualstudio" />
-</p> -->
+## 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Romyadhy&show_icons=false&theme=github_dark)
 
-<!-- ### 📊 GitHub Stats -->
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Romyadhy&show_icons=true&theme=radical" alt="stats" height="150" /> -->
-  <!-- <img src="https://streak-stats.demolab.com?user=Romyadhy&theme=tokyonight" alt="streak" height="150" /> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romyadhy&theme=radical" alt="streak" height="150" /> -->
-<!-- </p> -->
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romyadhy&layout=compact&theme=github_dark)
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romyadhy&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
---- -->
-
-### ✨ Quote
-> “Let’s improve together — no enemies, just growth 💪”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Romyadhy&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
