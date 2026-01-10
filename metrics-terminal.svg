@@ -33,7 +33,7 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">romyadhy@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#################   ] 81.12%
+<pre><div class="stdin"><span class="ps1-path">romyadhy@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#################   ] 81.11%
 <b>BLADE       </b> [##                  ] 7.69 %
 <b>PHP         </b> [##                  ] 6.06 %
 <b>C           </b> [#                   ] 2.10 %
