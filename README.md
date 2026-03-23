@@ -28,7 +28,7 @@
 <h1 align="center">Hi 👋, I'm Romyadhy</h1>
 <h3 align="center">💻 Computer Science Student | 🌐 Full-Stack Web & ML Enthusiast | 🛡️ Cybersecurity Learner | 🎮 Game Explorer</h3>
 <p align="center">
-  <a href="https://romyadhy-portofolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=flat-square&logo=vercel" /></a>
+  <a href="https://portfolio-seven-lake-86.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=flat-square&logo=vercel" /></a>
   <a href="https://www.linkedin.com/in/romy-mahaputra-6b0b48324/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
