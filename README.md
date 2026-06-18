@@ -32,4 +32,4 @@
   <a href="https://www.linkedin.com/in/romyadhy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
-![rankcode](./metrics-terminal.svg)
+<p align="center">![rankcode](./metrics-terminal.svg)</p>
