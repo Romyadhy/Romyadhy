@@ -24,6 +24,7 @@ jobs:
 
           # Terminal theme style
           template: terminal
+          theme: dark
 
           # Hide default base blocks to keep it clean
           base: ""
