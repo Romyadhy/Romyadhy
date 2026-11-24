@@ -5,6 +5,5 @@
   <a href="https://www.linkedin.com/in/romyadhy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
-<p align="center">
-  <img src="./metrics-terminal.svg" alt="Metics">
-</p>
+<!-- START_SECTION:languages -->
+<!-- END_SECTION:languages -->
