@@ -24,15 +24,15 @@ jobs:
 
           # Terminal theme style
           template: terminal
-          theme: dark
+          theme: darkcompact
 
           # Hide default base blocks to keep it clean
           base: ""
 
           # Plugins: Stats box + Languages with bars
-          plugin_lines: yes
+          # plugin_lines: yes
           plugin_languages: yes
-          plugin_languages_display: bars
+          plugin_languages_display: default
           plugin_languages_details: percentage
           plugin_languages_limit: 6
           plugin_languages_ignored: "html, css, blade, makefile, tex"
