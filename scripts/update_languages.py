@@ -8,8 +8,7 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 USERNAME = os.environ.get("GITHUB_USER", "Romyadhy")
 
 IGNORED_LANGUAGES = {
-    "html", "css", "blade", "makefile", "tex", "cmake", "dockerfile",
-    "shell", "powershell", "batchfile", "scss", "sass", "less"
+    "html", "css", "blade", "tex", "powershell", "batchfile", "scss", "sass", "less"
 }
 
 BAR_LENGTH = 20
@@ -137,7 +136,7 @@ def update_readme(new_stats: str, readme_path: str = "README.md") -> bool:
         + "\n"
         + new_stats
         + "\n"
-        + content[end_idx:]
+        + content[end_pos:]
     )
 
     with open(readme_path, "w", encoding="utf-8") as f:
@@ -145,7 +144,6 @@ def update_readme(new_stats: str, readme_path: str = "README.md") -> bool:
 
     print("README.md successfully updated.")
     return True
-
 
 if __name__ == "__main__":
     languages = fetch_languages()
