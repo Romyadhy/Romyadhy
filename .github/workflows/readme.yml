@@ -35,10 +35,11 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # git diff --quiet README.md || (git commit -m "docs: update language stats [skip ci]" README.md && git push)
 
-          if git diff --quiet REAME.md; then
+          if git diff --quiet README.md; then
             echo "No changes in README.md"
           else
             git add README.md
             git commit -m "docs: update language stats [skip ci]"
             git push
           fi
+
