@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Romy</h1>
-<h3 align="left">Language Stats</h2>
+<h3 align="left">Language Stats</h3>
 
 <!-- START_SECTION:languages -->
 ```text
