@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Romy</h1>
+<h1 align="left">Hi, I'm Romy</h1>
 <h3 align="left">Language Stats</h3>
 
 <!-- START_SECTION:languages -->
